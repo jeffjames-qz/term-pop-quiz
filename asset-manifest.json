@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/term-pop-quiz/static/css/main.f3c0e5de.chunk.css",
+    "main.js": "/term-pop-quiz/static/js/main.434544e4.chunk.js",
+    "main.js.map": "/term-pop-quiz/static/js/main.434544e4.chunk.js.map",
+    "runtime-main.js": "/term-pop-quiz/static/js/runtime-main.296fdbbd.js",
+    "runtime-main.js.map": "/term-pop-quiz/static/js/runtime-main.296fdbbd.js.map",
+    "static/js/2.8cfd4ec1.chunk.js": "/term-pop-quiz/static/js/2.8cfd4ec1.chunk.js",
+    "static/js/2.8cfd4ec1.chunk.js.map": "/term-pop-quiz/static/js/2.8cfd4ec1.chunk.js.map",
+    "static/js/3.7abf7eb9.chunk.js": "/term-pop-quiz/static/js/3.7abf7eb9.chunk.js",
+    "static/js/3.7abf7eb9.chunk.js.map": "/term-pop-quiz/static/js/3.7abf7eb9.chunk.js.map",
+    "index.html": "/term-pop-quiz/index.html",
+    "static/css/main.f3c0e5de.chunk.css.map": "/term-pop-quiz/static/css/main.f3c0e5de.chunk.css.map",
+    "static/js/2.8cfd4ec1.chunk.js.LICENSE.txt": "/term-pop-quiz/static/js/2.8cfd4ec1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.296fdbbd.js",
+    "static/js/2.8cfd4ec1.chunk.js",
+    "static/css/main.f3c0e5de.chunk.css",
+    "static/js/main.434544e4.chunk.js"
+  ]
+}
